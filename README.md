@@ -23,6 +23,6 @@
   <a href = "mailto:pedro.dell16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-del-antonio-filho-6b29161b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![snake animation](https://github.com/Pedro/Pedro/blob/output/github-contribution-grid-snake2.svg)
+  ![snake animation](https://github.com/pedrodelfilho/pedrodelfilho/blob/output/github-contribution-grid-snake2.svg)
  
 </div>
