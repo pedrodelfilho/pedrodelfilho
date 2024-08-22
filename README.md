@@ -1,7 +1,7 @@
 ### Olá👋, eu sou o Pedro Del Antonio Filho
 
-- 🔭 Hoje eu trabalho com Full-Stack (C#, Javascript, HTML, CSS, SQLServer)
-- 🌱 Atualmente estou estudando Angular
+- 🔭 Hoje eu trabalho com Full-Stack (C#, .Net, Javascript, RabbitMQ, Angular, SQLServer)
+- 🌱 Atualmente estou me especializando em .Net com Azure
 - 😄 Pronomes: ele/dele
 
 <div>
